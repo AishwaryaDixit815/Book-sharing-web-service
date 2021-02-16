@@ -13,6 +13,10 @@ form{
   font-family: 'Amiri', serif;
 }
 
+input{
+  font-size: x-small;
+}
+
 .align{
   display: inline-block;
   position:absolute;
